@@ -1,0 +1,76 @@
+body {
+  padding: 10px;
+  background: #00afa2;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.container {
+  background: white;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.flex-row1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flex-row2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+h6 {
+  margin-left: 10px;
+}
+
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 50%;
+}
+
+.people-container {
+  display: flex;
+}
+
+
+.people-list {
+  padding: 10px;
+  border: 1px solid #00afa2;
+  border-radius: 10px;
+  width: 49%;
+  margin-top: 20px;
+
+}
+
+.divPerson {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+}
+
+#imgFavorites {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.imgIGTI {
+  width: 140px;
+  height: 140px;
+
+
+}
