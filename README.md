@@ -26,7 +26,5 @@ Criar uma aplicação para filtrar usuários e mostrar estatísticas a partir do
   <li>No painel da direita, calcular e mostrar algumas estatísticas sobre esses usuários, conforme imagens abaixo.</li>
   </ol>
 
-<h5>Features Implementadas</h5>
-Foram implementadas as seguintes features além das requisitadas:
 
 
